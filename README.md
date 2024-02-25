@@ -1,6 +1,6 @@
 # Detector-of-intrusion-which-sends-email-as-an-alert
 ```
-git clone 
+git clone https://github.com/Hasul79/Detector-of-intrusion-which-sends-email-as-an-alert.git
 cd Detector-of-intrusion-which-sends-email-as-an-alert
 
 ```
