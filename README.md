@@ -7,19 +7,11 @@ python Email.py
 ```
 <br>
 
-```diff
-- I like GITHUB in red
-```
-
-
 <h1>Этот код написан на Python с использованием библиотеки   Scapy для анализа сетевого трафика и termcolor для цветного вывода в консоли.</h1>
 
 <ol>
-  
-  ```diff
-   1. Импорт библиотек:
-  ```
-  
+  <li> Импорт библиотек:</li>
+   
   <ul>
     <li>from scapy.all import sniff, IP, TCP: Импорт функции sniff и классов IP и TCP из библиотеки Scapy для анализа сетевых пакетов.</li>
     <li>import smtplib: Импорт модуля для отправки электронной почты.</li>
