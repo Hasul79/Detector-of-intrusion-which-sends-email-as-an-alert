@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/Hasul79/Detector-of-intrusion-which-sends-email-as-an-alert.git
 cd Detector-of-intrusion-which-sends-email-as-an-alert
-python Email.py
+sudo python Email.py
 
 ```
 <br>
