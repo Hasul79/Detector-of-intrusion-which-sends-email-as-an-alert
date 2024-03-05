@@ -7,10 +7,8 @@ python Email.py
 ```
 <br>
 
-```
-touch Email.py
+<span style="color:red">Your red text here</span>
 
-```
 
 <h1>Этот код написан на Python с использованием библиотеки Scapy для анализа сетевого трафика и termcolor для цветного вывода в консоли.</h1>
 
