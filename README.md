@@ -2,10 +2,13 @@
 ```
 git clone https://github.com/Hasul79/Detector-of-intrusion-which-sends-email-as-an-alert.git
 cd Detector-of-intrusion-which-sends-email-as-an-alert
+python Email.py
 
 ```
+<br>
+
 ```
-touch alert_email.py
+touch Email.py
 
 ```
 
